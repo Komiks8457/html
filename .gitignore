@@ -1,1 +1,17 @@
+event
+lastrogue.online/wp-admin
+lastrogue.online/wp-includes
+lastrogue.online/wp-content/cache
+lastrogue.online/wp-content/plugins
+lastrogue.online/wp-content/themes/twentytwentyfour
+lastrogue.online/wp-content/themes/silkroad/includes
+lastrogue.online/wp-content/themes/silkroad/template
+lastrogue.online/wp-content/upgrade
+lastrogue.online/wp-content/uploads
+lastrogue.online/wp-content/w3tc-config
+webmall
+.htaccess
+*.html
 *.php
+*.txt
+*.css
